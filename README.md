@@ -8,7 +8,7 @@
 ## <a target="_blank" href="https://linkedin.com/in/elvispimentel13"><img src="https://drive.google.com/uc?export=view&id=1uZIagRWyG5rE3IN0tacsAqyf8Tm6VCGf" alt="elvispimentel13" width="48" height="48" /></a> _`Senior Software Engineer`_
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elvispimentel13&show_icons=true&layout=compact" width="64" height="64" alt="elvispimentel13" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elvispimentel13&show_icons=true&layout=compact" alt="elvispimentel13" /></p>
 
 
 <h1></h1>
