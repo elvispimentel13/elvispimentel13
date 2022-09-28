@@ -3,7 +3,7 @@
 - 🧠 Practicing skills and trying to help others in the process
 - ⚡️ Going for DSA!
 - 🛠 Working on my front-end knowledge
-- 👀 You can contact me **<a href="https://elvispimentel.com/#contact" target="blank">here</a>**
+- 👀 You can contact me **<a href="https://linkedin.com/in/elvispimentel13" target="blank">here</a>**
 
 ## <a target="_blank" href="https://linkedin.com/in/elvispimentel13"><img src="https://drive.google.com/uc?export=view&id=1uZIagRWyG5rE3IN0tacsAqyf8Tm6VCGf" alt="elvispimentel13" width="48" height="48" /></a> _`Senior Software Engineer`_
 
